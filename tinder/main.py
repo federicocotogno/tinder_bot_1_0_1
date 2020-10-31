@@ -10,8 +10,8 @@ x_swipes = 0
 
 tn = Tinder(0, 0)
 
-# 30 simulated swipes
-for i in range(30):
+# 10 simulated swipes
+for i in range(10):
     # Generates some random numbers
     random_no = random.randrange(1, 5)
     random_no_swipe = random.randrange(10)
